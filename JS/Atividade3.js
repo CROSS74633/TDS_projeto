@@ -30,3 +30,14 @@ let idadedog = 7
 let idadetotal = idadedog*idadehumano
 console.log(`A idade do Dog será ${idadetotal} Anos`)
 // Sem prompt, resultado vai depender da idade do humano
+
+//Comparadores
+let n1 = "1"
+let n2 = 2
+let n3 = "2"
+let n4 = n1===n2
+let n5 = n1!==n3
+let n6 = n2 >=n3
+console.log(n4)
+console.log(n5)
+console.log(n6)
